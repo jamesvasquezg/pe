@@ -1,3 +1,14 @@
+
+
+.texto{
+  text-align: justify;
+  texto-justify: inter-palabra;
+
+ 
+}
+
+
+
 .anuncios{
   text-align: center;
 }
